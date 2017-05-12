@@ -1,0 +1,1292 @@
+- METS 001
+
+El bloque: {BF2D23E7-9A48-42A3-86B1-17762DB63375} de la pagina: A00001 no se usa en el METS
+
+El bloque: {02DEADCD-EB0A-4ED2-9384-1C3C5E0907EE} de la pagina: A00005 no se usa en el METS
+
+El bloque: {3500FB2F-9991-4453-A4E1-61C2D12D0E30} de la pagina: A00007 no se usa en el METS
+
+El bloque: {A7E12C53-D958-4E3F-8E02-183F3B2358BD} de la pagina: A00008 no se usa en el METS
+
+El bloque: {AD1180EE-773A-4080-B301-02695EA6FC67} de la pagina: A00022 no se usa en el METS
+
+El bloque: {E2F87D09-B78B-429F-A7CB-D086F603F63D} de la pagina: A00033 no se usa en el METS
+
+El bloque: {A451A9E6-87ED-4B27-B529-54DD3E7889E4} de la pagina: A00034 no se usa en el METS
+
+El bloque: {3EAE895F-BA88-4B16-83C2-77CBB3260F74} de la pagina: A00038 no se usa en el METS
+
+- METS 002
+
+El bloque: {5AA90207-F880-42CD-BDBB-51C6AB7E5B04} de la pagina: A00045 no se usa en el METS
+
+El bloque: {ECE0FD83-BFBB-44AC-BBF5-49A234DCD09B} de la pagina: A00048 no se usa en el METS
+
+El bloque: {7CBB8F21-5D31-4C2D-B055-C6C816029908} de la pagina: A00058 no se usa en el METS
+
+El bloque: {CC9D3E89-081F-4109-B7EC-EBF236984F57} de la pagina: A00062 no se usa en el METS
+
+El bloque: {D6274260-4AC9-49FC-9D14-D6BB6A8EF956} de la pagina: A00064 no se usa en el METS
+
+El bloque: {94678CC1-464C-440F-92A8-F9B76890E3AD} de la pagina: A00066 no se usa en el METS
+
+El bloque: {DC3FC847-27B1-4D74-9CB5-60C90A658E08} de la pagina: A00067 no se usa en el METS
+
+El bloque: {3C5D2E33-1B5A-44D3-942F-6A2EA401DC5D} de la pagina: A00069 no se usa en el METS
+
+El bloque: {B83C355E-F32B-4EC0-A58B-8785E74E92C7} de la pagina: A00071 no se usa en el METS
+
+El bloque: {07F3AE58-C435-47A9-9AB0-895D3719CB17} de la pagina: A00072 no se usa en el METS
+
+- METS 003
+
+El bloque: {2816F9C1-D66C-45A6-BFB6-716BAFD114C7} de la pagina: A00077 no se usa en el METS
+
+El bloque: {3BF94B7E-B786-4502-9E25-A68149FC68CB} de la pagina: A00080 no se usa en el METS
+
+El bloque: {E365304A-59C2-4328-82D9-1A837EDC4299} de la pagina: A00090 no se usa en el METS
+
+El bloque: {11614FFD-B6C7-400A-A8BC-81DDF35A04E6} de la pagina: A00099 no se usa en el METS
+
+- METS 004
+
+El bloque: {9F50D9D7-66ED-4B87-97CD-5B0429509B99} de la pagina: A00105 no se usa en el METS
+
+El bloque: {A507C99E-0FE4-4E27-923E-0A2DAEFA409C} de la pagina: A00107 no se usa en el METS
+
+El bloque: {AF96D34C-9C10-42F1-9921-103A1C11F8D3} de la pagina: A00107 no se usa en el METS
+
+El bloque: {6840DB60-4C5B-407E-8D51-D43C31DB7FF2} de la pagina: A00108 no se usa en el METS
+
+El bloque: {0099A646-3315-43BA-A9B5-065CE966AF4C} de la pagina: A00118 no se usa en el METS
+
+El bloque: {057F1E81-2660-42A1-A2F6-26480087349F} de la pagina: A00121 no se usa en el METS
+
+El bloque: {0FC44FF7-0296-4B96-B272-856A12F42D4D} de la pagina: A00122 no se usa en el METS
+
+- METS 005
+
+El bloque: {51D62CED-DAE4-4ED5-90D4-979F37062704} de la pagina: A00135 no se usa en el METS
+
+El bloque: {94B4C098-DF71-4D52-AC0E-2989E7A814A0} de la pagina: A00137 no se usa en el METS
+
+El bloque: {9DAE6403-B688-4309-B195-1632859A1E55} de la pagina: A00138 no se usa en el METS
+
+El bloque: {671397FB-3154-49E5-BBA9-6EFD8E9C060C} de la pagina: A00150 no se usa en el METS
+
+- METS 006
+
+El bloque: {849BE4E6-08F5-452F-9201-9009B4A2623F} de la pagina: A00171 no se usa en el METS
+
+El bloque: {180C1AFE-7EA1-4290-9BF4-4CBF8B26B096} de la pagina: A00173 no se usa en el METS
+
+El bloque: {51D357D9-3E0E-4856-B010-5323B09F1EFE} de la pagina: A00176 no se usa en el METS
+
+El bloque: {1AF94900-E36E-4146-8B83-8A13E116C51D} de la pagina: A00186 no se usa en el METS
+
+El bloque: {B5F70B59-D8CB-4291-9460-B15CF621A3EC} de la pagina: A00187 no se usa en el METS
+
+El bloque: {40BD7432-6B02-45F4-B83B-B58D9DABE52B} de la pagina: A00188 no se usa en el METS
+
+El bloque: {1EAE24E3-9916-4F88-9450-DAAE477BCFB5} de la pagina: A00194 no se usa en el METS
+
+- METS 007
+
+El bloque: {0C22D38D-2EF3-4757-A7F1-20BA92840D1C} de la pagina: A00197 no se usa en el METS
+
+El bloque: {6D3FE6E3-462E-40DC-BF93-E4D0DFD3BCA0} de la pagina: A00199 no se usa en el METS
+
+El bloque: {342F2DF2-21E0-42D6-BDF6-9DE8475FF930} de la pagina: A00225 no se usa en el METS
+
+El bloque: {D53CD1D1-F24E-4A69-8E3E-46A2CB81064F} de la pagina: A00226 no se usa en el METS
+
+El bloque: {7B2BB05A-95A3-4564-A60B-289E73CAD5B1} de la pagina: A00236 no se usa en el METS
+
+El bloque: {A1D94318-3B32-4695-BD31-A2333B1D93A5} de la pagina: A00237 no se usa en el METS
+
+El bloque: {0D77720B-B428-470C-AAD4-7BB83599D6D3} de la pagina: A00238 no se usa en el METS
+
+El bloque: {07A9BBAF-27FE-467A-BB36-4DF56415535F} de la pagina: A00240 no se usa en el METS
+
+El bloque: {D1A9066D-A5EC-4073-8C32-77E7716E8433} de la pagina: A00246 no se usa en el METS
+
+El bloque: {69223503-ADEC-436E-8619-9D5298046C26} de la pagina: A00250 no se usa en el METS
+
+- METS 008
+
+El bloque: {DD76A23F-5A2D-405E-A5EA-6B9E9319DC9C} de la pagina: A00253 no se usa en el METS
+
+El bloque: {3DC2379B-BED9-4FAF-A0C0-1E97925FFE8E} de la pagina: A00255 no se usa en el METS
+
+El bloque: {016BB909-B4CB-4A51-8F3C-6B913B635372} de la pagina: A00262 no se usa en el METS
+
+El bloque: {41C274E1-55A2-4FC6-8EA4-AA361530350B} de la pagina: A00263 no se usa en el METS
+
+El bloque: {64FBD085-2D83-4971-8D0A-15EB4301819A} de la pagina: A00265 no se usa en el METS
+
+El bloque: {B0EB65A6-E759-4E78-8655-DF22B80E3E9B} de la pagina: A00268 no se usa en el METS
+
+El bloque: {1676E7A7-4395-48E6-953C-9CB71A282364} de la pagina: A00280 no se usa en el METS
+
+El bloque: {76BD4E89-F18C-4025-8E85-512E9526CD80} de la pagina: A00286 no se usa en el METS
+
+- METS 009
+
+El bloque: {2B03EA73-A69F-4ADD-9633-68F7F27C6CDD} de la pagina: A00287 no se usa en el METS
+
+El bloque: {5A65DD0E-A2F4-45D2-B93A-973BF88030B5} de la pagina: A00289 no se usa en el METS
+
+El bloque: {41224E77-16C9-49AB-A463-76B504AE8E73} de la pagina: A00292 no se usa en el METS
+
+El bloque: {BE5A4288-8F34-45D1-B7DD-BEA9F0C51E08} de la pagina: A00295 no se usa en el METS
+
+El bloque: {7453037A-592D-491F-AF00-989F7D3F8B3B} de la pagina: A00296 no se usa en el METS
+
+El bloque: {5BAAE3C5-C83A-4CEB-8BD6-0165C51B690C} de la pagina: A00306 no se usa en el METS
+
+El bloque: {EC48399B-F535-4A39-A720-DA8B3BC770D3} de la pagina: A00308 no se usa en el METS
+
+El bloque: {3A12D5AB-84C4-43C9-AFD7-37054E1B946C} de la pagina: A00311 no se usa en el METS
+
+- METS 010
+
+El bloque: {853DEA15-1435-4122-AC10-4E917BAFBCA9} de la pagina: A00323 no se usa en el METS
+
+El bloque: {D5441CD2-14CC-469E-B71F-035D89F2AB6E} de la pagina: A00325 no se usa en el METS
+
+El bloque: {6616AB68-37FD-4A84-BE6A-90E25129191B} de la pagina: A00326 no se usa en el METS
+
+El bloque: {0A2F1B55-89CF-405E-A565-6E97ED9E3766} de la pagina: A00336 no se usa en el METS
+
+El bloque: {539356E7-B277-44A6-BCC1-143A07A95497} de la pagina: A00337 no se usa en el METS
+
+- METS 011
+
+El bloque: {B1E33E15-F398-43D3-8C2A-580583726B3D} de la pagina: A00349 no se usa en el METS
+
+El bloque: {84F28995-A0FC-461E-B224-A2806311852B} de la pagina: A00351 no se usa en el METS
+
+El bloque: {6D93C0BB-B44D-44D0-ABEE-DAF708617C4C} de la pagina: A00355 no se usa en el METS
+
+El bloque: {AC1BF65E-3FF0-4782-B4A5-1DDE2C13DCA4} de la pagina: A00356 no se usa en el METS
+
+El bloque: {368A623D-B219-4308-92B4-BEEA4DAEFF07} de la pagina: A00368 no se usa en el METS
+
+El bloque: {468F8AF1-6706-4071-AD9A-35F091D9AFEA} de la pagina: A00375 no se usa en el METS
+
+El bloque: {8DFFD885-FB44-4FA5-AB1F-4D9E8F58D368} de la pagina: A00378 no se usa en el METS
+
+- METS 012
+
+En la noticia 40011 el bloque del End no se ha encontrado.
+
+El bloque: {9C6E8E3A-0ABC-4C3B-AAA2-5BB081EFA925} de la pagina: A00379 no se usa en el METS
+
+El bloque: {460FF804-7695-4FC2-BDE7-D64C0EE61BF0} de la pagina: A00382 no se usa en el METS
+
+El bloque: {DADDD7F1-6B6B-46AA-825B-D43B319FC315} de la pagina: A00394 no se usa en el METS
+
+El bloque: {7D2D89DE-1B54-41F2-9667-A497E832133C} de la pagina: A00395 no se usa en el METS
+
+El bloque: {800CB30E-7DE8-4BBC-9C60-BDA47CA077E3} de la pagina: A00404 no se usa en el METS
+
+El bloque: {317384D6-C4B8-4F32-BD26-B4BCF2F368E6} de la pagina: A00408 no se usa en el METS
+
+- METS 013
+
+El bloque: {C6C74C32-F33F-438E-94F7-42FD7F23C5A6} de la pagina: A00411 no se usa en el METS
+
+El bloque: {B858300A-ECC5-423F-B15D-AD2F9DC5474D} de la pagina: A00414 no se usa en el METS
+
+El bloque: {F046A7EB-7455-411C-BAFD-17BD2664D4BB} de la pagina: A00426 no se usa en el METS
+
+El bloque: {84477BF0-6165-45F9-BC19-2BEF757CB185} de la pagina: A00430 no se usa en el METS
+
+El bloque: {3F243373-4EC7-46F7-93EC-80A494C4A407} de la pagina: A00438 no se usa en el METS
+
+El bloque: {040950CA-4F71-4A25-BDF1-C55C7FF3CEAB} de la pagina: A00441 no se usa en el METS
+
+- METS 014
+
+El bloque: {BE13FC7F-2BAE-4D0D-9C5F-8F4469C4E53D} de la pagina: A00443 no se usa en el METS
+
+El bloque: {BFFA9E0B-7F0A-4009-9C44-3C1FCDC6C100} de la pagina: A00445 no se usa en el METS
+
+El bloque: {AE6E4045-8A54-472B-A447-24C107AE814C} de la pagina: A00445 no se usa en el METS
+
+El bloque: {FD940943-3248-4861-82B8-B06C2976553B} de la pagina: A00448 no se usa en el METS
+
+El bloque: {C0D3E87D-94B1-4469-9A95-E89BACCFE634} de la pagina: A00462 no se usa en el METS
+
+El bloque: {5F989966-835A-4943-9CB2-9F93F102BAA7} de la pagina: A00466 no se usa en el METS
+
+El bloque: {AC2AF313-EFB9-4506-A639-961DC20A1FE4} de la pagina: A00471 no se usa en el METS
+
+El bloque: {F7E41446-661C-42FB-BC0B-382F73BB464C} de la pagina: A00476 no se usa en el METS
+
+- METS 015
+
+El bloque: {B10C98D4-DFAB-4654-B599-05BF81E4C2D0} de la pagina: A00477 no se usa en el METS
+
+El bloque: {D7B87CA5-5300-469A-A070-F339D0F7283B} de la pagina: A00479 no se usa en el METS
+
+El bloque: {F2715433-EB13-4546-A2EF-08A44EA37AAB} de la pagina: A00482 no se usa en el METS
+
+El bloque: {7D6A7BEF-4FE1-4570-967C-C3300BD9A618} de la pagina: A00490 no se usa en el METS
+
+- METS 016
+
+El bloque: {5DA5C1C9-84A0-4E2D-941C-72A6DC23D559} de la pagina: A00519 no se usa en el METS
+
+El bloque: {41E48C39-DC5F-442D-AD21-F6BB94D7B784} de la pagina: A00523 no se usa en el METS
+
+El bloque: {215092C7-A0B9-4042-AB24-A98FF1ABBAE5} de la pagina: A00524 no se usa en el METS
+
+El bloque: {D95AF7BC-49CE-4856-A241-DC6016BFF280} de la pagina: A00536 no se usa en el METS
+
+El bloque: {7C6FB06C-4EA9-4778-9095-552C547712F1} de la pagina: A00537 no se usa en el METS
+
+El bloque: {51D3A58E-3F9E-4648-8816-21F7A135C174} de la pagina: A00550 no se usa en el METS
+
+El bloque: {D305F759-AB6F-4E48-B452-25A75F265672} de la pagina: A00552 no se usa en el METS
+
+- METS 017
+
+El bloque: {15290ACB-0FF4-4EFF-954C-1ECF0F1A6512} de la pagina: A00555 no se usa en el METS
+
+El bloque: {90259E52-BB31-4691-A7C9-2819C0423E2C} de la pagina: A00557 no se usa en el METS
+
+El bloque: {7F12EE09-5A03-4BF9-820E-C16AD56F0006} de la pagina: A00560 no se usa en el METS
+
+El bloque: {0982B505-E0F0-4749-A044-B644DC135C60} de la pagina: A00574 no se usa en el METS
+
+El bloque: {346EF784-35D7-42F5-9722-356742A3E20B} de la pagina: A00576 no se usa en el METS
+
+El bloque: {469898AE-8306-4E15-B605-816AC87BD73D} de la pagina: A00578 no se usa en el METS
+
+- METS 018
+
+El bloque: {83A29A90-C55E-40DD-AC96-28ADF760D18E} de la pagina: A00579 no se usa en el METS
+
+El bloque: {D1F5302C-CF36-4C6B-84CD-7DC167D6FE87} de la pagina: A00582 no se usa en el METS
+
+El bloque: {2B23846F-7688-4412-9BF5-1F6013892C7D} de la pagina: A00584 no se usa en el METS
+
+El bloque: {E4C2B529-2A7B-47A0-9FDF-51BF67EC2ACE} de la pagina: A00601 no se usa en el METS
+
+El bloque: {BAEE5322-A1C3-4B7D-BB30-8CF3BC02237F} de la pagina: A00608 no se usa en el METS
+
+El bloque: {4F4E5560-8F64-4140-9480-1ECD7114AAF8} de la pagina: A00616 no se usa en el METS
+
+- METS 019
+
+El bloque: {3D22DE9C-B91E-4431-8030-F0049280CD48} de la pagina: A00623 no se usa en el METS
+
+El bloque: {2E3540C1-F1C4-46FA-8BBC-C867135750E0} de la pagina: A00624 no se usa en el METS
+
+El bloque: {3DBD0668-04A6-4D4A-800C-DF0E41A7278E} de la pagina: A00657 no se usa en el METS
+
+El bloque: {DD0AC314-4A7A-4CA2-B999-32BC235BE7A3} de la pagina: A00658 no se usa en el METS
+
+El bloque: {DB9CBE31-E8C6-4441-A9CF-538F8B4898F6} de la pagina: A00668 no se usa en el METS
+
+- METS 020
+
+El bloque: {146F9DF7-DC2F-4F19-8268-78AEA210E982} de la pagina: A00669 no se usa en el METS
+
+El bloque: {62FED452-664E-42C3-A52B-350E6F5B7E84} de la pagina: A00671 no se usa en el METS
+
+El bloque: {F1A21F71-A784-48D9-A240-EC595D154439} de la pagina: A00674 no se usa en el METS
+
+El bloque: {5BA555EA-518D-465F-86E4-9DF61319CDEE} de la pagina: A00697 no se usa en el METS
+
+El bloque: {51F12187-7F3E-4ED4-8680-E4ED9A3DF8FA} de la pagina: A00698 no se usa en el METS
+
+El bloque: {6B08AAF7-5027-4008-8C2C-17DD3088EFF9} de la pagina: A00699 no se usa en el METS
+
+El bloque: {D7B30058-E157-4E68-929E-86B302A3384F} de la pagina: A00700 no se usa en el METS
+
+El bloque: {A4CB52EC-8F30-4462-A8A5-90A45584A883} de la pagina: A00710 no se usa en el METS
+
+- METS 021
+
+El bloque: {D5F899EA-7202-4742-ADC3-31F817F97E03} de la pagina: A00717 no se usa en el METS
+
+El bloque: {72CF518C-0494-456B-9503-9522FB8B9B47} de la pagina: A00719 no se usa en el METS
+
+El bloque: {C31D851B-CA4C-47D9-BC2A-A1EA7863B115} de la pagina: A00720 no se usa en el METS
+
+El bloque: {38D79F6A-B131-4DB7-B47D-5C3D4CE9819A} de la pagina: A00734 no se usa en el METS
+
+El bloque: {C0444F32-B789-4E54-9870-0711247AC35E} de la pagina: A00742 no se usa en el METS
+
+El bloque: {9F957A72-28DB-485D-99A7-E04A75D0B4DC} de la pagina: A00744 no se usa en el METS
+
+El bloque: {358F223F-9921-490C-BF00-0C2D484B39DD} de la pagina: A00752 no se usa en el METS
+
+- METS 022
+
+El bloque: {CD45DA70-EFA6-430F-9DF7-2BCB423AC18E} de la pagina: A00753 no se usa en el METS
+
+El bloque: {FF3EB377-CCFB-43B6-8CAC-EA4EC5CBF7D2} de la pagina: A00755 no se usa en el METS
+
+El bloque: {3B01C18D-73BD-474C-90A6-BD025E25B23A} de la pagina: A00756 no se usa en el METS
+
+El bloque: {B8CDF66F-5136-4AEF-A4EA-591DE057D8D5} de la pagina: A00768 no se usa en el METS
+
+El bloque: {7B6073A6-5FA7-4791-A5B2-60A2AAF25F93} de la pagina: A00770 no se usa en el METS
+
+El bloque: {94EBC819-BA21-4752-9E9A-35601E15D8F5} de la pagina: A00774 no se usa en el METS
+
+- METS 023
+
+El bloque: {A8F0D2D5-AF58-4DC3-8D1C-B217938335C2} de la pagina: A00787 no se usa en el METS
+
+El bloque: {69A54FA0-6C12-4092-90DE-FCD4AF5F514B} de la pagina: A00789 no se usa en el METS
+
+El bloque: {4E7842DF-7DCB-4233-929E-FB24750C06F9} de la pagina: A00811 no se usa en el METS
+
+El bloque: {A35A6BAF-37E0-4F7F-AF52-AAA0F76DB18F} de la pagina: A00816 no se usa en el METS
+
+El bloque: {A4F8D710-D51D-4FEA-9FBD-EB43067E2EAB} de la pagina: A00819 no se usa en el METS
+
+El bloque: {AFD18427-59E4-4F99-B1AD-7D00A6CBC5B8} de la pagina: A00821 no se usa en el METS
+
+- METS 024
+
+El bloque: {E72B73E8-FA6B-4AC3-B2FB-F21BEA9B4D96} de la pagina: A00823 no se usa en el METS
+
+El bloque: {E574AD18-3F11-4B8A-AB6D-5955326255CB} de la pagina: A00824 no se usa en el METS
+
+El bloque: {2EAC9D28-BC6F-49F2-A398-BBD5D28B4226} de la pagina: A00843 no se usa en el METS
+
+- METS 025
+
+El bloque: {CF611A7B-BBED-46A2-AAFA-9E608E07FD29} de la pagina: A00845 no se usa en el METS
+
+El bloque: {6077CDDB-7F6C-48C9-9ACA-41D668AED9DE} de la pagina: A00862 no se usa en el METS
+
+El bloque: {1CF89997-D6AB-4E47-88E8-39A093B12789} de la pagina: A00867 no se usa en el METS
+
+El bloque: {A90AF948-2744-412D-9F5A-C52406A3F086} de la pagina: A00869 no se usa en el METS
+
+El bloque: {E111E764-7EAD-4988-8005-F1588CCB26E4} de la pagina: A00882 no se usa en el METS
+
+- METS 026
+
+El bloque: {FDADD781-7E2B-4BF8-9884-20D0DDC27F56} de la pagina: A00883 no se usa en el METS
+
+El bloque: {0C1EE3E0-6C39-4090-BA53-59040D8320F4} de la pagina: A00885 no se usa en el METS
+
+El bloque: {0B52DCF1-B176-465F-8B3F-B22DA004E71A} de la pagina: A00906 no se usa en el METS
+
+El bloque: {3D5D26B5-78DA-4AE5-8739-66F00B17B2CD} de la pagina: A00910 no se usa en el METS
+
+El bloque: {E1376E70-C7BD-4D7F-A236-9448B3387B28} de la pagina: A00912 no se usa en el METS
+
+El bloque: {6E2980AC-A2D1-4E3C-8079-9A703732D10D} de la pagina: A00914 no se usa en el METS
+
+El bloque: {B5345325-5A8F-49A1-8884-2DFECFFBCA31} de la pagina: A00917 no se usa en el METS
+
+El bloque: {8657C7C6-9BEE-476E-8072-548E6693BC15} de la pagina: A00918 no se usa en el METS
+
+- METS 027
+
+El bloque: {0F5A7389-D3E9-4BA3-BB05-22C8C7572121} de la pagina: A00923 no se usa en el METS
+
+El bloque: {067A439B-72F3-4D4D-BE5D-82921B5EFF51} de la pagina: A00925 no se usa en el METS
+
+El bloque: {0F9217FD-2EA1-45DD-96A9-3644F8ED9165} de la pagina: A00927 no se usa en el METS
+
+El bloque: {AE8471E1-AE42-4D77-B4E8-1F04FDA89B07} de la pagina: A00928 no se usa en el METS
+
+El bloque: {72BFB890-BDEE-4089-AA67-DC32643151C0} de la pagina: A00932 no se usa en el METS
+
+El bloque: {FD6BA466-EE87-42F6-8B1A-A8800FAAEE9F} de la pagina: A00933 no se usa en el METS
+
+El bloque: {3D483C9F-1C86-4626-B7EE-A07DF1A3B358} de la pagina: A00940 no se usa en el METS
+
+El bloque: {F5B854E5-F46E-4C75-B710-C878CFA910DC} de la pagina: A00941 no se usa en el METS
+
+- METS 028
+
+El bloque: {13BEA448-9BC8-4E97-AB59-088A6190C9C3} de la pagina: A00943 no se usa en el METS
+
+El bloque: {BA9EFFF3-9675-468B-97A6-92450673E573} de la pagina: A00945 no se usa en el METS
+
+El bloque: {9EC0E70B-66A6-4514-B5A4-4E2D1B4E66F0} de la pagina: A00958 no se usa en el METS
+
+El bloque: {6296E112-8EC0-43C4-9F08-468321DB023E} de la pagina: A00959 no se usa en el METS
+
+El bloque: {D6F48273-89DD-4DB9-8AF5-F1915982D681} de la pagina: A00963 no se usa en el METS
+
+El bloque: {8E8273A2-558F-41AA-9984-8ECAC44D6CB9} de la pagina: A00967 no se usa en el METS
+
+- METS 029
+
+El bloque: {FA02145E-C75E-41A0-BC51-75A045438631} de la pagina: A00973 no se usa en el METS
+
+El bloque: {876F75BB-23BD-4967-A41B-4CF69B756CAE} de la pagina: A00978 no se usa en el METS
+
+El bloque: {266071D0-1F1C-4B0D-949E-6C12B41F807A} de la pagina: A00979 no se usa en el METS
+
+El bloque: {5C3C11F9-82BD-4EA9-B95E-490291FF99DB} de la pagina: A00981 no se usa en el METS
+
+El bloque: {12CE4DEC-0F9C-4B05-8C15-2197F782A835} de la pagina: A00983 no se usa en el METS
+
+El bloque: {5F5DDE49-0F1C-45B3-B515-6AABA8E911FE} de la pagina: A00985 no se usa en el METS
+
+- METS 030
+
+El bloque: {F545E8FD-3DF7-4953-8A15-FF36172D5F60} de la pagina: A01001 no se usa en el METS
+
+El bloque: {4A61E304-00D0-410C-9A83-415CC2D6614C} de la pagina: A01003 no se usa en el METS
+
+El bloque: {A0C2EA28-EEA9-4098-B35C-7A9D20A547C1} de la pagina: A01008 no se usa en el METS
+
+El bloque: {C98321EA-779F-4928-BDA2-40C11A2F3122} de la pagina: A01010 no se usa en el METS
+
+El bloque: {938E92B0-D86F-4909-A816-3329AEE75496} de la pagina: A01011 no se usa en el METS
+
+El bloque: {1893453A-D450-4C36-9459-BFB70D9395D8} de la pagina: A01018 no se usa en el METS
+
+El bloque: {A532913B-C4D0-4EFF-B4CA-FFB6D4CFC881} de la pagina: A01021 no se usa en el METS
+
+- METS 031
+
+El bloque: {F35B4708-EBBD-452F-AB43-B07E65FCC59E} de la pagina: A01023 no se usa en el METS
+
+El bloque: {C093821C-E704-41FA-B0A0-C2F8ED34FD51} de la pagina: A01025 no se usa en el METS
+
+El bloque: {5E19462C-EFF9-4D39-B4EF-1597BD606018} de la pagina: A01027 no se usa en el METS
+
+El bloque: {9F25981A-CB52-4DC9-9878-D06A22DBC454} de la pagina: A01028 no se usa en el METS
+
+El bloque: {08F208CD-B535-4BA4-B855-4E14288F0AC1} de la pagina: A01038 no se usa en el METS
+
+- METS 032
+
+El bloque: {8E3B8110-F89D-4799-9827-F0145EC116F8} de la pagina: A01077 no se usa en el METS
+
+El bloque: {9D5D19CD-E57D-47ED-B0CD-8D93A5280E96} de la pagina: A01079 no se usa en el METS
+
+El bloque: {AFD4C285-B2AE-41FA-B37D-BE3213DD9220} de la pagina: A01092 no se usa en el METS
+
+El bloque: {F43616F5-B9A6-437B-9045-B451E76D1367} de la pagina: A01093 no se usa en el METS
+
+El bloque: {AAB4E26E-CD1F-4FD3-806D-E4DB78B4374A} de la pagina: A01098 no se usa en el METS
+
+El bloque: {ED33B529-19E3-4BFC-B78A-675ADFBC8CCA} de la pagina: A01099 no se usa en el METS
+
+El bloque: {F386A012-386C-47DC-A503-43F594BA07F6} de la pagina: A01101 no se usa en el METS
+
+El bloque: {68B1BA0D-3591-4D0F-B607-A848940B1B07} de la pagina: A01104 no se usa en el METS
+
+El bloque: {CEDD4D94-91ED-4FA6-BB83-A530B48C0F8B} de la pagina: A01109 no se usa en el METS
+
+- METS 033
+
+El bloque: {2C0140BE-8521-4F9A-9E14-2F497AC765A5} de la pagina: A01115 no se usa en el METS
+
+El bloque: {9B825203-0425-4566-9F70-2F7AB5640A65} de la pagina: A01117 no se usa en el METS
+
+El bloque: {D47BED6B-B1BC-433C-87FA-CEB4C395D8DA} de la pagina: A01128 no se usa en el METS
+
+- METS 034
+
+El bloque: {0F879398-EEB6-40DE-949E-296A7AE8DA35} de la pagina: A01131 no se usa en el METS
+
+El bloque: {A5B492A8-FF3A-48BD-B848-208248BB4A82} de la pagina: A01133 no se usa en el METS
+
+El bloque: {5D9B4E03-80C4-4F57-869E-8AE320EDA117} de la pagina: A01134 no se usa en el METS
+
+El bloque: {CC557716-4CAA-4557-A092-B22D53FFA071} de la pagina: A01144 no se usa en el METS
+
+El bloque: {45DAF72A-A2FF-4EBD-8CFB-B5C9D39B0049} de la pagina: A01151 no se usa en el METS
+
+El bloque: {67B4881B-B86E-43A6-A2C2-377EE572459D} de la pagina: A01156 no se usa en el METS
+
+El bloque: {D1026128-EF95-4B54-96A9-391121C808A4} de la pagina: A01163 no se usa en el METS
+
+- METS 035
+
+El bloque: {CEA93775-8689-4991-A439-064C39D2CCBB} de la pagina: A01165 no se usa en el METS
+
+El bloque: {FFC3A1C4-BBA8-44A1-B0C8-B2CEB279E380} de la pagina: A01167 no se usa en el METS
+
+El bloque: {7E114E3B-AF3C-4B77-837A-1F8B08D36860} de la pagina: A01186 no se usa en el METS
+
+El bloque: {F8FD8F0D-21C7-4874-A4BE-5DC706C73B13} de la pagina: A01191 no se usa en el METS
+
+El bloque: {99BF040B-10EE-40F1-AC5A-87BE657A33AF} de la pagina: A01192 no se usa en el METS
+
+- METS 037
+
+El bloque: {0C14D8F1-A86A-4ADA-9E69-E6FE1EB746AB} de la pagina: A01231 no se usa en el METS
+
+El bloque: {6A475762-67F3-4165-93B8-555B19FE008F} de la pagina: A01254 no se usa en el METS
+
+El bloque: {CB7AED08-0967-4631-88D3-CF6F53EC12B6} de la pagina: A01264 no se usa en el METS
+
+El bloque: {AAE07B95-C9B9-4666-8066-23136A810218} de la pagina: A01266 no se usa en el METS
+
+- METS 038
+
+El bloque: {F94196A2-414F-4CE4-BBCC-88797A98D105} de la pagina: A01267 no se usa en el METS
+
+El bloque: {E44D9FF4-A2D2-45BA-9C30-E45A37774894} de la pagina: A01269 no se usa en el METS
+
+El bloque: {09E779E8-4CE8-48D3-B190-F6762B0B04FC} de la pagina: A01272 no se usa en el METS
+
+El bloque: {AC79296E-A5F1-4F59-B95A-47DD57F4DB37} de la pagina: A01283 no se usa en el METS
+
+- METS 039
+
+El bloque: {10FADE24-27A0-480F-B94B-A1094E11108B} de la pagina: A01287 no se usa en el METS
+
+El bloque: {D979F577-1D52-468E-A781-895FBDF07BFC} de la pagina: A01289 no se usa en el METS
+
+El bloque: {13E79532-17C4-49CD-B0AE-9895E3AFBAB3} de la pagina: A01293 no se usa en el METS
+
+El bloque: {90C77694-A7E7-496C-83E4-407B3A243413} de la pagina: A01310 no se usa en el METS
+
+El bloque: {A7D6F232-A586-4D63-AB76-1FAB0E5325BE} de la pagina: A01316 no se usa en el METS
+
+El bloque: {30B8F50B-3D89-44AA-BCF3-A0EBFA6666F9} de la pagina: A01317 no se usa en el METS
+
+El bloque: {574FA210-DB87-422A-A2DC-3A2C921AB744} de la pagina: A01319 no se usa en el METS
+
+- METS 040
+
+En la noticia 53117 el bloque del End no se ha encontrado.
+
+El bloque: {A1AEB7BC-020D-4500-B773-BD0AFB30D1CF} de la pagina: A01325 no se usa en el METS
+
+El bloque: {3C442C21-6DA6-4505-BC35-65BA8A4FAF16} de la pagina: A01327 no se usa en el METS
+
+El bloque: {4691FCB9-178F-4896-A8BD-30138EE94BA4} de la pagina: A01336 no se usa en el METS
+
+El bloque: {D6A12485-57E4-4E31-8D59-C193D5757834} de la pagina: A01354 no se usa en el METS
+
+El bloque: {828ABAA4-F539-44F9-A34B-C37E33DF2DA3} de la pagina: A01358 no se usa en el METS
+
+El bloque: {8ABF7C23-88AD-4B37-AF00-FD7020FCC140} de la pagina: A01362 no se usa en el METS
+
+- METS 041
+
+El bloque: {E642EC7B-464E-42B6-9E56-FB221EC9D286} de la pagina: A01365 no se usa en el METS
+
+El bloque: {B7D8DF17-F03E-4DA0-B12F-1F03498777D6} de la pagina: A01393 no se usa en el METS
+
+El bloque: {ED797E4D-B47D-4FC4-837C-9A59D15FAB98} de la pagina: A01394 no se usa en el METS
+
+El bloque: {311AF3DA-8AC9-416A-B934-335CBC9175BE} de la pagina: A01403 no se usa en el METS
+
+- METS 042
+
+El bloque: {92FDC9C2-F06D-490F-BE75-6D4435CACEB7} de la pagina: A01405 no se usa en el METS
+
+El bloque: {1D0478B2-1DF9-4667-8FC0-A7CDC9B32AF3} de la pagina: A01408 no se usa en el METS
+
+El bloque: {A7C472D6-B745-4B53-B493-68D2E49EDD32} de la pagina: A01421 no se usa en el METS
+
+El bloque: {B8EA00E4-F4BF-4A16-A464-EC7DF15E8F1A} de la pagina: A01426 no se usa en el METS
+
+El bloque: {FE16A3F1-E3A2-4CA1-996E-61FC1673B8ED} de la pagina: A01428 no se usa en el METS
+
+El bloque: {E686115D-80A7-44CA-8AAE-657F3AF98AFF} de la pagina: A01430 no se usa en el METS
+
+El bloque: {6F2809F6-7BD8-4902-9419-56B15E4D69C0} de la pagina: A01433 no se usa en el METS
+
+- METS 043
+
+El bloque: {303DF6AD-9666-4266-A13A-3C2D2843A99E} de la pagina: A01435 no se usa en el METS
+
+El bloque: {0BCB1A3E-305F-4028-8583-040E54E59B31} de la pagina: A01437 no se usa en el METS
+
+El bloque: {6F7F24AC-973D-4223-8FA7-BF82CE50A573} de la pagina: A01450 no se usa en el METS
+
+El bloque: {8120F772-4908-4D29-9FE7-A2971DDF0D16} de la pagina: A01451 no se usa en el METS
+
+El bloque: {92076BDA-CD96-42C8-B737-415B26E5B746} de la pagina: A01455 no se usa en el METS
+
+El bloque: {7D3BC6AE-0F37-4091-84E8-C38149FBA07A} de la pagina: A01457 no se usa en el METS
+
+El bloque: {ACACE78E-64C5-4567-A1E5-A131DADA0AD6} de la pagina: A01460 no se usa en el METS
+
+- METS 044
+
+El bloque: {46FF128D-B357-4B48-86D6-5A58649A9E78} de la pagina: A01467 no se usa en el METS
+
+El bloque: {1FA67C2C-0A71-464A-9F60-5A23400CDD09} de la pagina: A01469 no se usa en el METS
+
+El bloque: {9D0F2C9D-5531-48BC-8BBF-9ADD5B24D4CC} de la pagina: A01480 no se usa en el METS
+
+El bloque: {FC9AB804-9953-442C-969F-B05364137C1A} de la pagina: A01484 no se usa en el METS
+
+El bloque: {46BD1FA6-AE45-46C1-8564-D5B4486B6764} de la pagina: A01488 no se usa en el METS
+
+El bloque: {6B82E1D0-DD01-4870-B091-43110AB44730} de la pagina: A01489 no se usa en el METS
+
+El bloque: {837D0B08-5BA4-4886-A4CB-2D9AE2E59DCE} de la pagina: A01490 no se usa en el METS
+
+El bloque: {D1D65479-7D65-446A-9FFA-35B081BEA25B} de la pagina: A01501 no se usa en el METS
+
+- METS 045
+
+El bloque: {1ED4B3F3-9866-4985-94F1-CA261DB20311} de la pagina: A01503 no se usa en el METS
+
+El bloque: {C64F16EE-9B84-4EF1-925C-A008A2635D84} de la pagina: A01504 no se usa en el METS
+
+El bloque: {46A23622-1F11-40B1-8AEE-EF6F737C4178} de la pagina: A01506 no se usa en el METS
+
+El bloque: {FDA6E078-FFBE-429E-B498-BD82FBEF63FE} de la pagina: A01522 no se usa en el METS
+
+- METS 046
+
+El bloque: {749A876A-DE49-4055-83FF-EEFC96424BDD} de la pagina: A01523 no se usa en el METS
+
+El bloque: {703B82DC-EB80-46CC-A0DE-97658860524C} de la pagina: A01525 no se usa en el METS
+
+El bloque: {EC744B82-D1C2-4E05-A536-AD9325B27182} de la pagina: A01527 no se usa en el METS
+
+El bloque: {C1470E6E-9D3E-4A87-A630-0485E57E1C59} de la pagina: A01530 no se usa en el METS
+
+El bloque: {49DC8685-5A7F-4C5C-A519-5E8D977A81C7} de la pagina: A01531 no se usa en el METS
+
+El bloque: {830C86BC-A339-4D3C-8778-8ABDB0712FF8} de la pagina: A01538 no se usa en el METS
+
+El bloque: {A9DF938D-62D4-4284-BEE5-96334A0BDF28} de la pagina: A01541 no se usa en el METS
+
+El bloque: {2DCB2BAB-AF6C-474A-B5D0-7DCA6DB3C35C} de la pagina: A01541 no se usa en el METS
+
+El bloque: {B9ED149A-BE89-46AE-B2D2-FC451B21A53A} de la pagina: A01546 no se usa en el METS
+
+El bloque: {04AF606A-C0A5-4EDA-84DE-C80ED6F8B152} de la pagina: A01548 no se usa en el METS
+
+El bloque: {61E94161-B311-45D6-BA5B-463DD6739625} de la pagina: A01551 no se usa en el METS
+
+El bloque: {1BBD6294-E808-4BA7-9CE9-DD62D8F297F3} de la pagina: A01555 no se usa en el METS
+
+- METS 047
+
+El bloque: {CAEFE8F0-D9FF-4ED2-8206-5E884B2B038A} de la pagina: A01557 no se usa en el METS
+
+El bloque: {4D8DF776-E9F9-418A-86E8-E3AEC35D4236} de la pagina: A01573 no se usa en el METS
+
+El bloque: {187AFA27-561F-474E-9712-979EC2B923AC} de la pagina: A01574 no se usa en el METS
+
+El bloque: {FAAABDC2-5986-434B-83C1-148D9E34155F} de la pagina: A01577 no se usa en el METS
+
+El bloque: {BA57A1C2-2F29-442A-8980-3F10CEA2CDEF} de la pagina: A01580 no se usa en el METS
+
+El bloque: {7D3CD08F-2BD7-41F8-AA5C-FC5129C99269} de la pagina: A01581 no se usa en el METS
+
+El bloque: {8FF945F4-CEE0-458D-B89F-57C7360190C6} de la pagina: A01588 no se usa en el METS
+
+- METS 048
+
+El bloque: {AD29A7F2-7731-4785-AF07-55DB169C10CA} de la pagina: A01589 no se usa en el METS
+
+El bloque: {8DBAF785-1E19-4A0E-8CEC-6474C66A8B48} de la pagina: A01606 no se usa en el METS
+
+El bloque: {1F649328-E594-4455-9E23-7309B2972E76} de la pagina: A01612 no se usa en el METS
+
+El bloque: {436EBD97-A781-41C6-9620-ED9100E54942} de la pagina: A01613 no se usa en el METS
+
+- METS 049
+
+El bloque: {D481F812-D04E-4357-A14F-309392541540} de la pagina: A01623 no se usa en el METS
+
+- METS 050
+
+El bloque: {DE578105-635C-4FE6-AA91-08B660AA0313} de la pagina: A01655 no se usa en el METS
+
+El bloque: {EF456307-B34F-4919-864B-49BD8B5DFC54} de la pagina: A01658 no se usa en el METS
+
+El bloque: {D1AED044-758E-4D38-A7A0-7CF5831A2EF1} de la pagina: A01668 no se usa en el METS
+
+El bloque: {21FF6193-B599-4EDB-A1BF-38D9298A344D} de la pagina: A01672 no se usa en el METS
+
+El bloque: {E78CAA53-BFC7-4A07-A8D7-64E5E9C6A20E} de la pagina: A01673 no se usa en el METS
+
+El bloque: {0C5B41E9-062A-49C7-BB94-28F72213076C} de la pagina: A01675 no se usa en el METS
+
+El bloque: {98D50649-ADCE-4FEE-B16B-248037E1F94A} de la pagina: A01676 no se usa en el METS
+
+El bloque: {EC78F85C-1E63-4DF2-9B3C-144DD199CB2D} de la pagina: A01689 no se usa en el METS
+
+- METS 051
+
+El bloque: {4F9B4B86-5211-4FE5-9422-DB4DBE3AEC76} de la pagina: A01691 no se usa en el METS
+
+El bloque: {DAAC3263-A788-4E87-BCBB-FEB1DBEB6ADC} de la pagina: A01694 no se usa en el METS
+
+El bloque: {CB17ECCB-1002-40C1-9477-FA39A8B4C78E} de la pagina: A01696 no se usa en el METS
+
+El bloque: {5A5C0683-2F00-48DB-9E1F-98633E5C9833} de la pagina: A01698 no se usa en el METS
+
+El bloque: {507CC58F-15CC-4CCB-A55C-57C2B0E4B5D4} de la pagina: A01701 no se usa en el METS
+
+- METS 052
+
+El bloque: {CE336538-0083-49E2-AD95-A0914475A92F} de la pagina: A01727 no se usa en el METS
+
+El bloque: {D52D324E-E415-4B3B-81D8-910390C44932} de la pagina: A01729 no se usa en el METS
+
+El bloque: {8C3257D3-011C-456B-B6D0-BC3CB195F4C6} de la pagina: A01736 no se usa en el METS
+
+- METS 053
+
+El bloque: {BE8C1CED-A259-494E-A504-5A0B9292022E} de la pagina: A01745 no se usa en el METS
+
+El bloque: {C5D8AAD3-5F91-4F11-986B-C2C5A2179F60} de la pagina: A01747 no se usa en el METS
+
+El bloque: {2C2C5D81-7E44-4234-8A82-65E2357C83CF} de la pagina: A01755 no se usa en el METS
+
+El bloque: {714B8C2A-51BE-4EEC-9DCD-C0640F663B8F} de la pagina: A01762 no se usa en el METS
+
+El bloque: {5F91CB20-C8A1-4BAE-B140-3A111E1557D3} de la pagina: A01767 no se usa en el METS
+
+El bloque: {290F1B01-075C-4DF3-AB86-C7AE727C1267} de la pagina: A01768 no se usa en el METS
+
+El bloque: {424E47E8-79B1-480F-9183-5EC949F5A639} de la pagina: A01773 no se usa en el METS
+
+El bloque: {FE7E6BE4-8B50-4853-8807-D11BCB77DA91} de la pagina: A01775 no se usa en el METS
+
+- METS 054
+
+El bloque: {6D164855-B3AB-4DF0-BC7F-438F39A1F01C} de la pagina: A01777 no se usa en el METS
+
+El bloque: {AB7E1612-8AD5-4C2C-B667-18F4C194F1E3} de la pagina: A01806 no se usa en el METS
+
+El bloque: {D2E1F02D-6267-4570-AF94-18020F54DD6A} de la pagina: A01809 no se usa en el METS
+
+- METS 055
+
+En la noticia 1905 el bloque del End no se ha encontrado.
+
+El bloque: {6B2B1C56-D548-46F4-926D-67E9A7516723} de la pagina: A01813 no se usa en el METS
+
+El bloque: {9895F995-0A9E-46C3-AA01-CAF66043659D} de la pagina: A01815 no se usa en el METS
+
+El bloque: {F62C2963-018E-452A-BA43-1BD525A53D04} de la pagina: A01822 no se usa en el METS
+
+El bloque: {F9A089CD-2485-450A-938A-61EDDD550083} de la pagina: A01824 no se usa en el METS
+
+El bloque: {5AFC5EBC-E6CB-4DB2-930E-9609368005AC} de la pagina: A01825 no se usa en el METS
+
+El bloque: {86C493CA-6260-41ED-9A1E-0B790A3863C3} de la pagina: A01827 no se usa en el METS
+
+El bloque: {16431F0E-447B-48BF-A894-51503D9D15C8} de la pagina: A01829 no se usa en el METS
+
+El bloque: {5B41998B-333B-4C32-974F-BF7B62E66A65} de la pagina: A01849 no se usa en el METS
+
+- METS 056
+
+El bloque: {C317A2D1-C2C3-4D2E-AD30-F3F507DE0A45} de la pagina: A01853 no se usa en el METS
+
+El bloque: {E1D1DA36-9FED-43E6-9E24-8B947C73A2ED} de la pagina: A01855 no se usa en el METS
+
+El bloque: {A71CE173-B01D-4474-AC00-3F06EFC7084D} de la pagina: A01866 no se usa en el METS
+
+- METS 057
+
+El bloque: {C67F96FF-3318-4C70-9930-78E0ED069A1E} de la pagina: A01869 no se usa en el METS
+
+El bloque: {DD46D718-BF05-409A-877E-707B139C0232} de la pagina: A01873 no se usa en el METS
+
+El bloque: {F4013C8C-C74B-41C6-AB44-2A83802545C2} de la pagina: A01883 no se usa en el METS
+
+El bloque: {DBE5CC00-9EF1-45F1-8172-B742B970C743} de la pagina: A01888 no se usa en el METS
+
+El bloque: {280DFDC0-AB53-4317-A62A-59FCF5AA2CF2} de la pagina: A01891 no se usa en el METS
+
+El bloque: {7ABE7BE1-802D-4DCA-AB8B-0B11B6521235} de la pagina: A01894 no se usa en el METS
+
+- METS 059
+
+El bloque: {1C114CBB-3C60-4AC5-8E62-7195CB1BA617} de la pagina: A01923 no se usa en el METS
+
+El bloque: {26BFD131-F2B2-448D-B9F3-F0F5596FD715} de la pagina: A01924 no se usa en el METS
+
+El bloque: {C59598DF-3E3F-483E-86E7-5DEAAB06688A} de la pagina: A01931 no se usa en el METS
+
+- METS 060
+
+El bloque: {D842AF3B-6712-4A51-A835-4C808C9E2FFF} de la pagina: A01969 no se usa en el METS
+
+El bloque: {7DE22D73-A1CD-46AB-AB37-F283F10D6139} de la pagina: A01971 no se usa en el METS
+
+El bloque: {2FCC314B-8A31-402F-AB91-DC3D7D72770F} de la pagina: A01974 no se usa en el METS
+
+El bloque: {A928A359-2495-454F-82B0-2E835E7CF866} de la pagina: A01991 no se usa en el METS
+
+El bloque: {E48C12DE-10F7-4C0B-98A4-FFCC64A7102D} de la pagina: A02000 no se usa en el METS
+
+El bloque: {A4C8B2F8-8B0E-4018-A56F-9997FBE4F16D} de la pagina: A02002 no se usa en el METS
+
+- METS 061
+
+El bloque: {C5D47D97-8A53-497F-94A1-092CDF93C218} de la pagina: A02007 no se usa en el METS
+
+El bloque: {CC40A6E5-5DDD-462C-916B-4DE5F5B1761C} de la pagina: A02014 no se usa en el METS
+
+El bloque: {D3C72E8F-D8C4-4652-926C-1F989D1F4AA2} de la pagina: A02015 no se usa en el METS
+
+El bloque: {99F678AB-E31C-47B1-B010-F1D1CC5A8782} de la pagina: A02019 no se usa en el METS
+
+El bloque: {1667DB7C-0DBA-4ECB-8814-3AFE3E75F579} de la pagina: A02020 no se usa en el METS
+
+El bloque: {2BCD6259-D2CC-4064-9CB0-E43E65FFEB09} de la pagina: A02025 no se usa en el METS
+
+El bloque: {5F7A70E7-DFCC-42C5-BB30-C2F9420030E1} de la pagina: A02026 no se usa en el METS
+
+El bloque: {DE17E586-2238-4430-9431-722990BE88D8} de la pagina: A02028 no se usa en el METS
+
+El bloque: {89C5BF74-0033-42D3-8200-1A41AB0749B8} de la pagina: A02030 no se usa en el METS
+
+El bloque: {07736072-960A-4DE9-8A63-47E5DDB61AE5} de la pagina: A02033 no se usa en el METS
+
+- METS 062
+
+El bloque: {3924A252-412B-4A95-854D-BE5AF3A1AE03} de la pagina: A02041 no se usa en el METS
+
+El bloque: {3F49728B-D6E8-4523-AE4D-0E5A9E45808D} de la pagina: A02044 no se usa en el METS
+
+El bloque: {A0F3FD25-5409-4945-90BC-F273407795E8} de la pagina: A02051 no se usa en el METS
+
+El bloque: {E367E2B1-854B-46C8-82F4-24A92A43C377} de la pagina: A02052 no se usa en el METS
+
+El bloque: {89EF57F8-F6E4-4496-8D87-8D9159CB1F29} de la pagina: A02054 no se usa en el METS
+
+- METS 063
+
+El bloque: {4756C768-0FCE-4298-9A9E-416FB3FC26CB} de la pagina: A02057 no se usa en el METS
+
+El bloque: {C431FD37-214B-437B-B5BF-7BEFF1082128} de la pagina: A02059 no se usa en el METS
+
+El bloque: {1E1CBB6B-747E-47D4-B9DE-50FCFE8B3E5F} de la pagina: A02060 no se usa en el METS
+
+El bloque: {93EDB522-0821-4409-B678-C00F4C420E01} de la pagina: A02062 no se usa en el METS
+
+El bloque: {986DC17F-74C9-42E5-ACB3-6E90066000D2} de la pagina: A02065 no se usa en el METS
+
+El bloque: {0DA41A99-172E-4A83-8465-EFD8A5666165} de la pagina: A02068 no se usa en el METS
+
+El bloque: {49278452-2D3B-4FFF-941F-7A8AE03E3827} de la pagina: A02073 no se usa en el METS
+
+El bloque: {8CEA187E-DB38-4601-A403-C1E97BA7CA82} de la pagina: A02079 no se usa en el METS
+
+- METS 064
+
+El bloque: {EE6B9AE7-67DF-43D9-834D-E0FB0A495479} de la pagina: A02081 no se usa en el METS
+
+- METS 065
+
+El bloque: {071620F7-6DB1-4B6A-8798-4CE262DCED09} de la pagina: A02099 no se usa en el METS
+
+El bloque: {675CA790-DE05-47F1-9E9B-7DF1BE55861C} de la pagina: A02101 no se usa en el METS
+
+El bloque: {1F3359FD-0534-44FF-BA88-31D8727F1513} de la pagina: A02104 no se usa en el METS
+
+El bloque: {FF27BAB2-0F93-49E6-A5EE-BF3AE2B7ED0F} de la pagina: A02105 no se usa en el METS
+
+El bloque: {E9DAC8E1-1335-4C86-AA45-B1F2EB9CC44C} de la pagina: A02108 no se usa en el METS
+
+El bloque: {5068161B-E55D-4483-ABE1-FD3A36CDD349} de la pagina: A02109 no se usa en el METS
+
+El bloque: {F139CB64-7E7E-4D15-AEFC-B7E65C04C5CC} de la pagina: A02113 no se usa en el METS
+
+El bloque: {8B3E1C24-CA2F-44B1-AB98-9914ED6CFF7C} de la pagina: A02115 no se usa en el METS
+
+El bloque: {F87419DD-F93E-468C-9CC8-A768ECCBB813} de la pagina: A02116 no se usa en el METS
+
+El bloque: {AEDA814E-1BAA-4C3D-8FB6-646C43BBCD76} de la pagina: A02127 no se usa en el METS
+
+- METS 066
+
+El bloque: {84B119A0-DBB1-44FA-8F1C-4DC14EE26A74} de la pagina: A02131 no se usa en el METS
+
+El bloque: {7CA25538-11AC-44C2-86CB-307AE1654CC5} de la pagina: A02137 no se usa en el METS
+
+El bloque: {9792CA1D-4322-4C55-9882-80D0057E234E} de la pagina: A02138 no se usa en el METS
+
+El bloque: {442FCB2F-2722-4D89-83CD-87F0F3F71D96} de la pagina: A02143 no se usa en el METS
+
+El bloque: {33A850EC-5687-4602-8EF5-16A7B491E773} de la pagina: A02145 no se usa en el METS
+
+El bloque: {8FC5B416-B6B8-4042-9C5C-8255D6BE175C} de la pagina: A02146 no se usa en el METS
+
+- METS 067
+
+El bloque: {23FCA3C7-B43B-476C-A1A7-E0851D4BD3A5} de la pagina: A02147 no se usa en el METS
+
+El bloque: {DCBE5D40-CA84-4B70-A4CD-38CD98486961} de la pagina: A02151 no se usa en el METS
+
+El bloque: {1EB5FA80-9036-41B8-8B3E-2E82BFAD617C} de la pagina: A02154 no se usa en el METS
+
+El bloque: {1773F9B3-93AA-457A-BDB4-B1E0524A293E} de la pagina: A02155 no se usa en el METS
+
+El bloque: {595D323E-2B90-496C-A586-F07167587B6B} de la pagina: A02159 no se usa en el METS
+
+El bloque: {CB737696-E6A8-4B33-8568-C79914A606FA} de la pagina: A02166 no se usa en el METS
+
+El bloque: {6D9C46EC-9197-48D6-AEA8-E51ACF32907A} de la pagina: A02167 no se usa en el METS
+
+El bloque: {A76A6F5B-7500-46DB-B745-B545498E757C} de la pagina: A02174 no se usa en el METS
+
+El bloque: {BB830B88-894B-4B41-9C66-0C5D92D09D7D} de la pagina: A02176 no se usa en el METS
+
+- METS 068
+
+El bloque: {C52525DF-827D-41B2-A953-E24C5F38B838} de la pagina: A02181 no se usa en el METS
+
+El bloque: {A14D5847-D4CC-4156-BEA7-062D904D7999} de la pagina: A02199 no se usa en el METS
+
+El bloque: {F9CCC006-CD32-4D75-AB10-8FE6D8C22C47} de la pagina: A02201 no se usa en el METS
+
+El bloque: {B19F0EE4-8D6E-4291-A04C-1AF6A9BA2065} de la pagina: A02202 no se usa en el METS
+
+El bloque: {F4D12465-E926-47C2-B228-6D5E41AAF619} de la pagina: A02205 no se usa en el METS
+
+El bloque: {743CDD78-F46D-4242-9D64-A305353CF7C3} de la pagina: A02207 no se usa en el METS
+
+El bloque: {80A4FFE9-E9BC-4502-8D12-B5A0743A102F} de la pagina: A02213 no se usa en el METS
+
+- METS 069
+
+El bloque: {6052C169-BB6E-4727-A17A-D661ABC5D99C} de la pagina: A02215 no se usa en el METS
+
+El bloque: {7EACA71D-286E-4CA5-B6D1-A72CB433CF1F} de la pagina: A02217 no se usa en el METS
+
+El bloque: {F583D88B-D136-4F24-B926-D4E889901F90} de la pagina: A02218 no se usa en el METS
+
+El bloque: {ACAFE93B-81EE-41BE-AC28-AAEE79884F8F} de la pagina: A02224 no se usa en el METS
+
+El bloque: {EBF3F8F5-4001-4A22-A7E3-79F74786C910} de la pagina: A02225 no se usa en el METS
+
+El bloque: {BDA0751B-34E0-4885-9C40-4CD0C6681149} de la pagina: A02226 no se usa en el METS
+
+El bloque: {BE6CEF6F-BF59-4D5F-8E24-64AE4809AB80} de la pagina: A02230 no se usa en el METS
+
+El bloque: {969AEC78-7C59-45C4-B58C-209FB00D56C7} de la pagina: A02238 no se usa en el METS
+
+El bloque: {17ABD60A-4A6E-423C-8DBF-CA4926863DC0} de la pagina: A02241 no se usa en el METS
+
+- METS 070
+
+El bloque: {7716B128-F5AF-401E-A851-40993BA59E5D} de la pagina: A02245 no se usa en el METS
+
+El bloque: {3DD59602-9285-4C8D-96B6-7F977146B4CF} de la pagina: A02246 no se usa en el METS
+
+El bloque: {C28AF528-9160-4A6B-87BA-984DBE92CF05} de la pagina: A02250 no se usa en el METS
+
+El bloque: {8603C058-3E38-402C-8F7D-9D1068825BD1} de la pagina: A02259 no se usa en el METS
+
+- METS 071
+
+El bloque: {04F4962E-1883-4A31-80D1-29925441B5DD} de la pagina: A02263 no se usa en el METS
+
+El bloque: {7F517148-E275-4AD8-9B93-C741D7D2C916} de la pagina: A02265 no se usa en el METS
+
+El bloque: {9F1808D6-C2BF-440E-8887-76B255D46DA8} de la pagina: A02265 no se usa en el METS
+
+El bloque: {65FB2DFB-1BC2-4D73-B195-F6892F3AF62B} de la pagina: A02268 no se usa en el METS
+
+El bloque: {5524FD6D-8B9A-44E7-AAE8-8DF04655F55F} de la pagina: A02269 no se usa en el METS
+
+El bloque: {F428C766-C969-4897-99A3-E58C80E94165} de la pagina: A02270 no se usa en el METS
+
+El bloque: {F6AE22E0-80BC-4BFE-8D02-A2E48B82A081} de la pagina: A02271 no se usa en el METS
+
+El bloque: {20D2501C-CCF1-4F83-BFE6-2351095361B0} de la pagina: A02288 no se usa en el METS
+
+- METS 072
+
+El bloque: {47C337BC-F739-4539-83D7-7F7A919210A6} de la pagina: A02301 no se usa en el METS
+
+El bloque: {C1880D1E-8962-4A79-86D8-73ACE6E1DE13} de la pagina: A02303 no se usa en el METS
+
+El bloque: {846ED372-72BA-45E4-926A-BA728648E862} de la pagina: A02305 no se usa en el METS
+
+El bloque: {FDB86904-865C-4F22-8D43-ECE481C48539} de la pagina: A02308 no se usa en el METS
+
+El bloque: {4CD2401E-A54F-4005-B550-E637DA315DB9} de la pagina: A02311 no se usa en el METS
+
+El bloque: {6C3FCFA3-7A8F-48A4-BF05-583723B7F8DA} de la pagina: A02311 no se usa en el METS
+
+El bloque: {CD928422-9B75-4B9F-9E70-A58B8C16EDE7} de la pagina: A02312 no se usa en el METS
+
+El bloque: {DD6849FE-F32A-413F-A1A5-B3EFAF58A1DE} de la pagina: A02322 no se usa en el METS
+
+- METS 073
+
+El bloque: {4E0C381A-BD8B-4F6C-ACE9-8DD4F78978EF} de la pagina: A02327 no se usa en el METS
+
+El bloque: {29C5AE18-F389-4324-8482-FA61E0A2E2E4} de la pagina: A02329 no se usa en el METS
+
+El bloque: {78CFF39C-55DA-4C04-B988-FF750E07C429} de la pagina: A02342 no se usa en el METS
+
+- METS 074
+
+El bloque: {EB156F2E-5990-4EC2-9309-0F5374FEA5C0} de la pagina: A02353 no se usa en el METS
+
+El bloque: {C1B3F5E6-C7A7-45E6-B7C2-51BDFF05165E} de la pagina: A02357 no se usa en el METS
+
+El bloque: {094D341F-1D5A-4020-BED1-41F145A0D894} de la pagina: A02362 no se usa en el METS
+
+El bloque: {0828B7C1-200A-41DE-B3D6-C1296304BB54} de la pagina: A02363 no se usa en el METS
+
+El bloque: {FF9E3059-884F-4B62-AAAD-4C7F54C89008} de la pagina: A02367 no se usa en el METS
+
+El bloque: {3B6F521E-A64D-4C01-A667-568FD44FBF82} de la pagina: A02372 no se usa en el METS
+
+El bloque: {92561356-85D1-4FE9-97F8-2BF9C2299A96} de la pagina: A02374 no se usa en el METS
+
+El bloque: {01E97FCA-488C-41B7-987E-0604B407CBE6} de la pagina: A02376 no se usa en el METS
+
+El bloque: {19F7C060-E4E0-4AE2-9F63-A03F3375AE18} de la pagina: A02377 no se usa en el METS
+
+- METS 075
+
+El bloque: {57AE606A-84E5-4E9B-AE60-AE2A8C0D859E} de la pagina: A02381 no se usa en el METS
+
+El bloque: {D2D96114-9B6B-43C7-9BB9-AA9F652BA7D3} de la pagina: A02383 no se usa en el METS
+
+El bloque: {8FD55DDF-C4D1-4C26-AE3A-D98189E47C60} de la pagina: A02386 no se usa en el METS
+
+El bloque: {720BFE0D-30CD-4E72-B63F-D2212A90CD07} de la pagina: A02399 no se usa en el METS
+
+El bloque: {297A2B39-97A6-4C9B-9E54-8F69B49E80F1} de la pagina: A02400 no se usa en el METS
+
+El bloque: {D459D11A-F662-487A-BF46-5EAF7363C94F} de la pagina: A02401 no se usa en el METS
+
+El bloque: {02B02C0A-9994-4708-B147-81DB71FF8977} de la pagina: A02402 no se usa en el METS
+
+El bloque: {8348F146-9EEF-4A2A-83D1-4AA73462B660} de la pagina: A02406 no se usa en el METS
+
+El bloque: {B4F5C8F1-C185-44BE-85AB-6D15DEEF8D61} de la pagina: A02414 no se usa en el METS
+
+El bloque: {B3E38DB6-982D-4D5C-9BE1-C4F492B4FD48} de la pagina: A02415 no se usa en el METS
+
+El bloque: {70C89B04-B35D-4C27-89C4-CB3333EDB536} de la pagina: A02415 no se usa en el METS
+
+El bloque: {0541AE67-F0C4-4DC7-B759-7581FEE32C0B} de la pagina: A02415 no se usa en el METS
+
+- METS 076
+
+El bloque: {42006126-A7F7-4010-86CF-0F661FE59018} de la pagina: A02423 no se usa en el METS
+
+El bloque: {245DB230-0695-411A-9F1A-E32AD459D7C8} de la pagina: A02425 no se usa en el METS
+
+El bloque: {AF605A5A-CB86-476D-BBB1-2DE42C21651F} de la pagina: A02430 no se usa en el METS
+
+El bloque: {1EF8A2BC-76BD-4DDF-8B94-C3F628FF7E2D} de la pagina: A02438 no se usa en el METS
+
+El bloque: {1AF58D40-E631-4797-86AE-A986B107F5EE} de la pagina: A02447 no se usa en el METS
+
+El bloque: {C5C54792-AC00-46BB-BC2D-76456A10E784} de la pagina: A02451 no se usa en el METS
+
+El bloque: {1B092F68-1884-46AB-93A7-E74FB6173FB4} de la pagina: A02452 no se usa en el METS
+
+El bloque: {9D1809FD-51C4-48B3-9185-922B45EF2A72} de la pagina: A02455 no se usa en el METS
+
+- METS 077
+
+El bloque: {9ADB71AA-2951-455F-B533-A4AA246F0FBF} de la pagina: A02459 no se usa en el METS
+
+El bloque: {B9E14E73-20FF-4B6E-93D8-0476AB8A48D2} de la pagina: A02460 no se usa en el METS
+
+El bloque: {01896BA2-DB0B-4ACD-A7F3-A231129DF938} de la pagina: A02464 no se usa en el METS
+
+El bloque: {273FBE91-A171-4FA1-A162-93C867B4E737} de la pagina: A02476 no se usa en el METS
+
+El bloque: {69FB49E2-953A-4B48-8FD8-E4D876949D08} de la pagina: A02490 no se usa en el METS
+
+- METS 078
+
+El bloque: {3C6444AE-3B2A-4622-8DC1-4CC67E4673A4} de la pagina: A02491 no se usa en el METS
+
+El bloque: {857BA324-27A2-4FD4-B286-BA713DC6397E} de la pagina: A02493 no se usa en el METS
+
+El bloque: {FFD00171-7B45-4937-9B84-AC81DAFA9637} de la pagina: A02501 no se usa en el METS
+
+El bloque: {6D9ECDCF-DB87-4982-9209-3EB08541EF7F} de la pagina: A02503 no se usa en el METS
+
+El bloque: {C8AB7016-66FD-4107-BA1D-AEF02B38BC8E} de la pagina: A02506 no se usa en el METS
+
+- METS 079
+
+El bloque: {D512DD9C-CC66-41C3-BC96-49FCBD373ADF} de la pagina: A02511 no se usa en el METS
+
+El bloque: {5D111140-1668-461D-9C4A-277A98F56D84} de la pagina: A02512 no se usa en el METS
+
+El bloque: {5650D109-ADC7-4AA9-B1A0-DE63EEA5C629} de la pagina: A02534 no se usa en el METS
+
+El bloque: {0550DFBF-11BA-4D97-98C2-1F2BD2D2EE5E} de la pagina: A02535 no se usa en el METS
+
+- METS 080
+
+El bloque: {43554367-C836-4025-BBA5-37110046DB45} de la pagina: A02539 no se usa en el METS
+
+El bloque: {1BA579F1-1438-4D5C-A73D-D5E8A8900BA2} de la pagina: A02543 no se usa en el METS
+
+El bloque: {0EA1297D-5BC2-4F5A-B621-93D57F85F712} de la pagina: A02552 no se usa en el METS
+
+El bloque: {EE662D48-333C-43EA-87B7-A9C7598BF7F6} de la pagina: A02556 no se usa en el METS
+
+- METS 081
+
+El bloque: {36D26A22-066A-4FC6-9325-C3297FB8EA0B} de la pagina: A02557 no se usa en el METS
+
+El bloque: {2EBF40CD-2A53-4C28-9526-EB564E586213} de la pagina: A02561 no se usa en el METS
+
+El bloque: {C2CC76FE-3E9D-48EC-BF88-31783F32E715} de la pagina: A02562 no se usa en el METS
+
+El bloque: {20066C1C-0FAB-4215-8CDF-1455368BA267} de la pagina: A02573 no se usa en el METS
+
+El bloque: {B872239E-0F0E-4310-AD4A-44679C40BDF5} de la pagina: A02577 no se usa en el METS
+
+El bloque: {323724B0-369A-49C4-8C7F-94ACE7899FB1} de la pagina: A02578 no se usa en el METS
+
+- METS 082
+
+El bloque: {FF23334A-1C6E-463F-ABCB-5A79749A628B} de la pagina: A02583 no se usa en el METS
+
+El bloque: {9F97F753-63A3-4C0F-9C40-C9CC1BE7F040} de la pagina: A02585 no se usa en el METS
+
+El bloque: {B56E820E-8B6E-4FFD-B02D-B6090776FE4A} de la pagina: A02586 no se usa en el METS
+
+El bloque: {02B4F90D-BADF-40D4-99A4-E2CE2E345523} de la pagina: A02587 no se usa en el METS
+
+El bloque: {759FF1E9-E9C4-40DB-95A3-28616671307B} de la pagina: A02592 no se usa en el METS
+
+El bloque: {00A7B9D5-9CDC-4A65-A479-70607516F454} de la pagina: A02593 no se usa en el METS
+
+- METS 083
+
+El bloque: {2F30E1F1-6321-4220-AC1F-42F8EBD0CFC2} de la pagina: A02599 no se usa en el METS
+
+El bloque: {CB2C2C81-6C49-4D5F-A3F2-6C73CBA95EA9} de la pagina: A02601 no se usa en el METS
+
+El bloque: {574E6B95-A6F1-408B-81C7-8799AB9C715C} de la pagina: A02611 no se usa en el METS
+
+El bloque: {ACAC08E4-2213-42B9-9565-4C97271395DA} de la pagina: A02616 no se usa en el METS
+
+El bloque: {EE05F4DC-66B7-4004-A61D-5235AD4D430E} de la pagina: A02618 no se usa en el METS
+
+El bloque: {A60018B2-35C0-40FF-AD79-1E0D935731FB} de la pagina: A02618 no se usa en el METS
+
+El bloque: {FEFBF9EE-F5F1-43DC-90B9-DA447BFBA4D7} de la pagina: A02618 no se usa en el METS
+
+El bloque: {5AED5E60-818A-476E-8793-8EC0DF93E9CA} de la pagina: A02622 no se usa en el METS
+
+El bloque: {19465220-74A3-4EFA-9800-95BA3BBD6453} de la pagina: A02626 no se usa en el METS
+
+- METS 084
+
+El bloque: {7FDC5DD2-8DFD-45B3-AAB8-9AC50B5E15BF} de la pagina: A02637 no se usa en el METS
+
+El bloque: {F3FA011E-103D-4228-AE92-49E39343690B} de la pagina: A02639 no se usa en el METS
+
+El bloque: {3887FF5F-A6A9-42E2-B52E-E6E0AA38D553} de la pagina: A02641 no se usa en el METS
+
+El bloque: {F061856C-EF96-4337-96E8-7F9CED174C3A} de la pagina: A02656 no se usa en el METS
+
+El bloque: {D6D0FB6B-EB24-422D-9C08-8822AB0C2CDF} de la pagina: A02658 no se usa en el METS
+
+El bloque: {D019BB43-2503-413B-A7A9-3506FA259435} de la pagina: A02667 no se usa en el METS
+
+- METS 085
+
+El bloque: {26B1D132-23BB-46CE-AF48-BA3EC9D84C82} de la pagina: A02669 no se usa en el METS
+
+El bloque: {28702699-30FA-4D4E-BB49-945236B85F65} de la pagina: A02671 no se usa en el METS
+
+El bloque: {BF4FF9F2-8120-4E2B-B27C-F4445223C976} de la pagina: A02685 no se usa en el METS
+
+El bloque: {6A69B049-D9C9-455B-845A-3EC9D7F43E88} de la pagina: A02692 no se usa en el METS
+
+El bloque: {DF29BC43-A4B2-46C4-BAA5-CAFEE4765F49} de la pagina: A02696 no se usa en el METS
+
+El bloque: {36701862-5710-403C-9328-CBE80B24C260} de la pagina: A02698 no se usa en el METS
+
+- METS 086
+
+El bloque: {5A8D210C-BF62-404E-9DE9-5B7591C60FD8} de la pagina: A02703 no se usa en el METS
+
+El bloque: {F2A46215-0E7A-4EA6-9E54-DE55024EF1F7} de la pagina: A02705 no se usa en el METS
+
+El bloque: {BA7338C9-5F5B-4999-91EC-43D87469391E} de la pagina: A02724 no se usa en el METS
+
+El bloque: {8E350B4F-2221-4EAD-A6B9-8D079A52B555} de la pagina: A02726 no se usa en el METS
+
+El bloque: {593B5BA4-D985-4B7C-B4D4-0ED329D20CE5} de la pagina: A02729 no se usa en el METS
+
+El bloque: {FAB2379C-7FBD-468A-95A8-E9D9CDA3D2CB} de la pagina: A02730 no se usa en el METS
+
+El bloque: {142D9BD6-9D61-485C-B9C7-0B3D426FF4E4} de la pagina: A02731 no se usa en el METS
+
+El bloque: {C7E3C66B-7407-44D3-8FF6-157022408969} de la pagina: A02732 no se usa en el METS
+
+El bloque: {2AEDB98F-1CB1-474F-825D-1C9A1961DD4B} de la pagina: A02734 no se usa en el METS
+
+- METS 087
+
+El bloque: {39DB871B-99B2-4993-9D00-3E1549B1199E} de la pagina: A02735 no se usa en el METS
+
+El bloque: {E9C5166E-D229-42E5-8588-958CB022FE2F} de la pagina: A02738 no se usa en el METS
+
+El bloque: {289BF781-47CD-43B6-A589-573425A3FC39} de la pagina: A02744 no se usa en el METS
+
+El bloque: {E7676567-671F-4C59-9656-DDC53234BDDB} de la pagina: A02745 no se usa en el METS
+
+El bloque: {6B8B78F7-635D-479F-B461-80D55FB46B10} de la pagina: A02747 no se usa en el METS
+
+- METS 088
+
+El bloque: {C4F052CB-0D78-476A-8A26-832A428710DF} de la pagina: A02751 no se usa en el METS
+
+El bloque: {228BDF1B-2895-4FB1-98C6-BBDD493E8748} de la pagina: A02753 no se usa en el METS
+
+El bloque: {BFCF492E-7B10-42FA-B757-3EB684707B91} de la pagina: A02771 no se usa en el METS
+
+El bloque: {A4077A43-4B3B-427C-8FFE-C320D725FB53} de la pagina: A02772 no se usa en el METS
+
+El bloque: {681823E6-C193-463B-818B-BDB025773A1F} de la pagina: A02779 no se usa en el METS
+
+- METS 089
+
+El bloque: {DE554B4B-9604-48A8-9DB7-DFFEE2F283CB} de la pagina: A02783 no se usa en el METS
+
+El bloque: {3E4A5C3B-8EF4-4270-8BE1-40702262A7B3} de la pagina: A02785 no se usa en el METS
+
+El bloque: {22F6F814-7CED-4AB7-957D-38E92A3C0A30} de la pagina: A02786 no se usa en el METS
+
+El bloque: {7E121589-34FE-4722-AD00-8CDEC2571E4A} de la pagina: A02799 no se usa en el METS
+
+El bloque: {3C3C370A-933E-4C20-A0E7-D97FE73F6E33} de la pagina: A02805 no se usa en el METS
+
+El bloque: {AC1094DC-8527-4D55-8B07-B3785B06C413} de la pagina: A02808 no se usa en el METS
+
+El bloque: {AB078277-E6B9-41BF-B025-39C5FD7AC185} de la pagina: A02818 no se usa en el METS
+
+El bloque: {5E31CAF0-73C5-468C-9E5D-2BE2E25AE4BC} de la pagina: A02819 no se usa en el METS
+
+- METS 090
+
+El bloque: {7718DE77-AC78-414A-A621-5CB2CAEE2BDF} de la pagina: A02821 no se usa en el METS
+
+El bloque: {609A2912-5F1B-4ECA-BD0A-C3B712B92C10} de la pagina: A02823 no se usa en el METS
+
+El bloque: {4FE8A27B-537A-48F5-934C-C76DE45503EE} de la pagina: A02824 no se usa en el METS
+
+El bloque: {A7011034-8AC5-412B-86AB-A4F052B85DE6} de la pagina: A02825 no se usa en el METS
+
+El bloque: {3108BF43-31B7-4870-8E42-3A8AA50D6FFF} de la pagina: A02826 no se usa en el METS
+
+El bloque: {20A78EF2-EF69-48DE-88F4-44B2166FC17E} de la pagina: A02836 no se usa en el METS
+
+El bloque: {849CA05D-480D-42B7-B9BA-3D123C7C98A8} de la pagina: A02838 no se usa en el METS
+
